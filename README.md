@@ -5,14 +5,13 @@
 <h2 align="center">A passionate fullstack developer from Kenya</h2>
 
 
+[![wakatime](https://wakatime.com/badge/user/2cd6519a-9dec-405d-96a7-ac4ad4bdec30.svg)](https://wakatime.com/@2cd6519a-9dec-405d-96a7-ac4ad4bdec30)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senorfetty&label=Profile%20views&color=0e75b6&style=flat" alt="senorfetty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senorfetty" alt="senorfetty" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/billybk" target="blank"><img src="https://img.shields.io/twitter/follow/billybiik?logo=twitter&style=for-the-badge" alt="billybk" /></a> </p>
-
-[![wakatime](https://wakatime.com/badge/user/2cd6519a-9dec-405d-96a7-ac4ad4bdec30.svg)](https://wakatime.com/@2cd6519a-9dec-405d-96a7-ac4ad4bdec30)
 
 - 🔭 I’m currently working on [Xwitter](https://github.com/senorfetty/Xwitter)
 
