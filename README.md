@@ -9,6 +9,7 @@
 <h2 align="center">A passionate fullstack developer from Kenya</h2>
 
 
+
 [![wakatime](https://wakatime.com/badge/user/2cd6519a-9dec-405d-96a7-ac4ad4bdec30.svg)](https://wakatime.com/@2cd6519a-9dec-405d-96a7-ac4ad4bdec30)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senorfetty&label=Profile%20views&color=0e75b6&style=flat" alt="senorfetty" /> </p>
