@@ -1,8 +1,3 @@
-<div align='center'>
-  <a href="https://rishavchanda.io">
-    <img src="https://unsplash.com/photos/a-wall-that-has-some-type-of-writing-on-it-xMM7TNEiMGw" >
-  </a>
-</div>
 
 <h1 align="center">Hi 👋, I'm Billy Kimutai</h1>
                                             
