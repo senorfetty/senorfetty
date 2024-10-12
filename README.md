@@ -37,3 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senorfetty&" alt="senorfetty" /></p>
 
+<br>
+![Snake](./dist/github-contribution-grid-snake.svg)
