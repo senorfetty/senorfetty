@@ -1,32 +1,33 @@
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header"></p>
 
-
-<h1 align="center">Hi 👋, I'm Billy Kimutai</h1>
+<h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>, I'm Billy Kimutai</b> </h1>
                                             
 <h2 align="center">A passionate fullstack developer from Kenya</h2>
 
+<p align="center">
+  <a href="https://wakatime.com/@2cd6519a-9dec-405d-96a7-ac4ad4bdec30">
+    <img src="https://wakatime.com/badge/user/2cd6519a-9dec-405d-96a7-ac4ad4bdec30.svg" alt="WakaTime Badge" />
+  </a>
+</p>
 
 
-[![wakatime](https://wakatime.com/badge/user/2cd6519a-9dec-405d-96a7-ac4ad4bdec30.svg)](https://wakatime.com/@2cd6519a-9dec-405d-96a7-ac4ad4bdec30)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=senorfetty&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="senorfetty" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senorfetty&label=Profile%20views&color=0e75b6&style=flat" alt="senorfetty" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senorfetty" alt="senorfetty" /></a> </p>
-
-
-- 🔭 I’m currently working on [Xwitter](https://github.com/senorfetty/Xwitter)
-
-- 👨‍💻 All of my projects are available at [https://senorfetty.github.io/portfolio/](https://senorfetty.github.io/portfolio/)
-
-- 📫 How to reach me **billykimbett@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/9dbh01w5ug](https://flowcv.com/resume/9dbh01w5ug)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senorfetty&theme=juicyfresh" alt="senorfetty" /></a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/billybiik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billybk" height="80" width="80" /></a>
-    <a href="https://instagram.com/fetty_senor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fetty_senor" height="80" width="80" /></a>
-</p>
+<br>
+<br>
+<div align="center">
+   <a href="https://senorfetty.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+   <a href="https://github.com/senorfetty" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+   <a href="mailto:billykimbett@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+   <a href="https://instagram.com/fetty_senor" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+   <a href="https://t.me/@senorfetty" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+   <a href="https://wa.me/254792593059" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+   <a href="https://x.com/billybiik" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  </div>
 
 
 
@@ -95,3 +96,5 @@
     <img alt="github-snake" src="https://github.com/senorfetty/senorfetty/blob/output/github-contribution-grid-snake.gif" />
   </picture>
 </div>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer"></p>
