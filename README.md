@@ -23,10 +23,10 @@
    <a href="https://senorfetty.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
    <a href="https://github.com/senorfetty" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
    <a href="mailto:billykimbett@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-   <a href="https://instagram.com/fetty_senor" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-   <a href="https://t.me/@senorfetty" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<!--    <a href="https://instagram.com/fetty_senor" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
+<!--    <a href="https://t.me/@senorfetty" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> -->
    <a href="https://wa.me/254792593059" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-   <a href="https://x.com/billybiik" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<!--    <a href="https://x.com/billybiik" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
   </div>
 
 
